@@ -1,0 +1,6 @@
+/data/transcripts/*
+/.env
+/.vscode
+/__pycache__
+/myenv
+/processed_pdfs.log
